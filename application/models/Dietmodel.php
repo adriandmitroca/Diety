@@ -1,11 +1,5 @@
 <?php
 
-/**
- * Created by IntelliJ IDEA.
- * User: wizzard
- * Date: 29.09.15
- * Time: 16:52
- */
 class Dietmodel extends CI_Model {
 
     function __construct() {
